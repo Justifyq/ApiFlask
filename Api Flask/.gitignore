@@ -1,0 +1,11 @@
+/shelf/
+/workspace.xml
+.idea/
+venv/
+__pycache__/
+*.db
+.dockerignore
+dockerfile
+docker*.*
+.yml
+docker-compose.yml
